@@ -1,0 +1,5 @@
+#Tue Mar 22 21:00:12 CET 2022
+apple=4
+simple=2
+chocolate=5
+vanilla=1
