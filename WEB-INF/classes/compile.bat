@@ -1,1 +1,1 @@
-javac -cp C:\xampp\tomcat\lib\servlet-api.jar %1 %2 %3 %4 %5
+javac -cp C:\xampp\tomcat\lib\servlet-api.jar *.java
